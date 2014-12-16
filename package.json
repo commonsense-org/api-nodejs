@@ -1,0 +1,19 @@
+{
+  "name": "common-sense-api",
+  "version": "1.0.0",
+  "description": "Driver to connect with the Common Sense API.",
+  "main": "./lib/api",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Caleb Whang",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "1.6.0",
+    "underscore.string": "2.3.3"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
